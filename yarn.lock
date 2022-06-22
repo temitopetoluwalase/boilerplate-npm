@@ -251,10 +251,10 @@ mime@1.6.0:
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.6.0.tgz#32cd9e5c64553bd58d19a568af452acff04981b1"
   integrity sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==
 
-moment@2.10.2:
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.10.2.tgz#faf8c09ca82f03f94962e3b5a7239263ea50d087"
-  integrity sha512-4DQs2KOBIxtsddaqr6XTTxEnDEFBMNKQvOUSjjKiXJIo0j9KkDmuOqDDS4n1eY0DAu6eifKV9Y6Vl27mza/MDA==
+moment@~2.10.2:
+  version "2.10.6"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.10.6.tgz#6cb21967c79cba7b0ca5e66644f173662b3efa77"
+  integrity sha512-Tqzz/uADMAPuqWA7iE0eMCJHhDqGuRpiwUSokCT3144wCsjeTHwzbgJY62GAvt3ax8bI8tDugD2oaMQXvJ9tBA==
 
 ms@2.0.0:
   version "2.0.0"
